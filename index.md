@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Server 161 Rules of Engagement (RoE) - revised on the 10th April 2020:
 
-You can use the [editor on GitHub](https://github.com/mr-spock42/mr-spock42.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A) Survey Ships are protected up to the limit of their protected cargo as defined by the game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Situations when the destruction of a survey ship is authorized :
 
-### Markdown
+1. Overcargo: The protected cargo limit of the ship is exceeded.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. Zero node: The ship is sitting idle on a depleted mine (attackers are required to send a message 2 minutes beforehand to explain the reason of the attack and to make a screenshot of the mine showing 0. The defender is allowed to reset the mine during the given 2mins and so avoid attack). 
 
-```markdown
-Syntax highlighted code block
+3. Raids: When participating in a base raid.
 
-# Header 1
-## Header 2
-### Header 3
+4. Wars: No RoE applies during a war (it must be declared officially to the Council). 
 
-- Bulleted
-- List
+5. Augment Space: the Botany Bay is the only survey ship authorized in Augment territory. Other mining survey ships will not be protected by the RoE and can be destroyed.
 
-1. Numbered
-2. List
+B) RoE only applies to alliances who adhere to the RoE. Pirates are not protected by the RoE.
 
-**Bold** and _Italic_ and `Code` text
+C) Any ship participating in an “Armada” is not to be attacked.
 
-[Link](url) and ![Image](src)
-```
+D) Every other ship is NOT protected.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If a ship is unlawfully killed, the attacker is contacted and asked why, if he does not answer within 5 minutes, (in the case of EMK) the mine may be retrieved. 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mr-spock42/mr-spock42.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If these rules are violated, try to resolve it with the offender. If the dispute cannot be resolved, report it to your alliance's Diplomat, Commodore or Admiral - who should then post relevant reports in #roe-alliance-to-alliance. Repeated offences should be posted in #roe-alliance-to-council for review by the council.
