@@ -1,4 +1,5 @@
-## Server 161 Rules of Engagement (RoE) - revised on the 10th April 2020:
+## Server 161 Rules of Engagement (RoE)
+###revised on the 10th April 2020:
 
 A) Survey Ships are protected up to the limit of their protected cargo as defined by the game.
 
